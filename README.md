@@ -1,6 +1,6 @@
 <div align="center">
 
-# Enso
+# Hi, I'm Enso
 
 **Computer Science Student · Aspiring Software Enginner & Full-Stack developer**
 
