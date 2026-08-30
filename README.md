@@ -32,21 +32,3 @@
 
 <br>
 
-### Featured Projects
-
-**[PAROLA](https://github.com/renzo1417)**
-AI-powered Blue Economy platform predicting fishing zones for small-scale Philippine fishermen, delivered via plain-language SMS.
-
-**[PADULONG](https://github.com/renzo1417)**
-Agentic AI commute assistant that turns natural-language queries into landmark-based routes across Metro Cebu's transit system.
-
-**[STUDYMATE AI](https://github.com/renzo1417)**
-AI-powered EdTech platform for quiz generation, PDF parsing, and adaptive study tools.
-
-<br>
-
-<div align="center">
-
-[Portfolio](https://renzo-portfolio-gilt.vercel.app/) · [GitHub](https://github.com/renzo1417) · [LinkedIn](https://www.linkedin.com/in/renzo-pogoy-062980329/)
-
-</div>
