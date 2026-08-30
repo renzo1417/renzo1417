@@ -2,8 +2,7 @@
 
 # Enso
 
-**Computer Science Student · Full-Stack Developer**
-Cebu, Philippines
+**Computer Science Student · Aspiring Software Enginner & Full-Stack developer**
 
 </div>
 
