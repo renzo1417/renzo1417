@@ -6,8 +6,6 @@
 
 </div>
 
-<br>
-
 ### About
 
 - Building practical, real-world software — AI platforms, EdTech tools, transit assistants
@@ -15,12 +13,7 @@
 - Top 5 Finalist — AI Fest Hackathon 2024, Iloilo City
 - Currently exploring agentic AI
 
-<br>
-
 ### Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
