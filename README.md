@@ -2,7 +2,7 @@
 
 # Hi, I'm Enso 👋
 
-**Computer Science Student · Aspiring Software Engineer & Full-Stack Developer**
+**Computer Science Student at CIT-University · Aspiring Software Engineer & Full-Stack Developer**
 
 </div>
 
