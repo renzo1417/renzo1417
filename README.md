@@ -13,8 +13,8 @@
 ### 🚀 About Me
 
 - 💻 Building practical full-stack web and offline-first mobile apps with **Next.js**, **React Native**, and **TypeScript**.
-- 🏆 **Top 5 Finalist** at the DOST AI Fest Hackathon (Parola) & **Phase 2 Finalist** at the 2026 APAC Financial Health Hackathon (Kasabwat).
-- 🧠 Solid foundations in data structures & algorithms (**C++**) and Object-Oriented Programming (**Java**).
+- 🏆 **Top 5 Finalist** at the DOST AI Fest Hackathon & **Phase 2 Finalist** at the 2026 APAC Financial Health Hackathon.
+- 🎯 Always open to collaborating on innovative open-source projects or civic-tech initiatives
 - 🤖 Exploring **agentic AI workflows**, local telemetry, and smart developer tooling.
 
 ---
